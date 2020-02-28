@@ -6,4 +6,7 @@
 
 
 
+  <ItemGroup>
+    <Content Remove="PracticeBranchFile.json" />
+  </ItemGroup>
 </Project>
