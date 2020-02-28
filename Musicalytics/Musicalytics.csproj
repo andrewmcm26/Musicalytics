@@ -8,5 +8,11 @@
 
   <ItemGroup>
     <Content Remove="PracticeBranchFile.json" />
+    <Content Remove="PracticeBranch2File.json" />
+    <Content Remove="PracticeBranch2File.json" />
+    <Content Remove="SgtPepperJSON.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="EmptyTextFile.txt" />
   </ItemGroup>
 </Project>
