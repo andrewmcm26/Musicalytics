@@ -1,6 +1,7 @@
 {
     "audio_features": [
         {
+            "name": "Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009",
             "danceability": 0.451,
             "energy": 0.673,
             "key": 7,
@@ -21,6 +22,7 @@
             "time_signature": 4
         },
         {
+            "name": "With A Little Help From My Friends - Remastered 2009",
             "danceability": 0.705,
             "energy": 0.515,
             "key": 4,
@@ -41,6 +43,7 @@
             "time_signature": 4
         },
         {
+            "name": "Lucy In The Sky With Diamonds - Remastered 2009",
             "danceability": 0.311,
             "energy": 0.325,
             "key": 2,
@@ -61,6 +64,7 @@
             "time_signature": 1
         },
         {
+            "name": "Getting Better - Remastered 2009",
             "danceability": 0.632,
             "energy": 0.471,
             "key": 0,
@@ -81,6 +85,7 @@
             "time_signature": 4
         },
         {
+            "name": "Fixing A Hole - Remastered 2009",
             "danceability": 0.469,
             "energy": 0.507,
             "key": 0,
@@ -101,6 +106,7 @@
             "time_signature": 4
         },
         {
+            "name": "She's Leaving Home - Remastered 2009",
             "danceability": 0.381,
             "energy": 0.214,
             "key": 4,
@@ -121,6 +127,7 @@
             "time_signature": 3
         },
         {
+            "name": "Being For The Benefit Of Mr. Kite! - Remastered 2009",
             "danceability": 0.526,
             "energy": 0.413,
             "key": 0,
@@ -141,6 +148,7 @@
             "time_signature": 4
         },
         {
+            "name": "Within You Without You - Remastered 2009",
             "danceability": 0.352,
             "energy": 0.479,
             "key": 6,
@@ -161,6 +169,7 @@
             "time_signature": 4
         },
         {
+            "name": "When I'm Sixty Four - Remastered 2009",
             "danceability": 0.704,
             "energy": 0.241,
             "key": 1,
@@ -181,6 +190,7 @@
             "time_signature": 4
         },
         {
+            "name": "Lovely Rita - Remastered 2009",
             "danceability": 0.61,
             "energy": 0.471,
             "key": 8,
@@ -201,6 +211,7 @@
             "time_signature": 4
         },
         {
+            "name": "Good Morning Good Morning - Remastered 2009",
             "danceability": 0.542,
             "energy": 0.618,
             "key": 2,
@@ -221,6 +232,7 @@
             "time_signature": 3
         },
         {
+            "name": "Sgt. Pepper's Lonely Hearts Club Band - Reprise / Remastered 2009",
             "danceability": 0.653,
             "energy": 0.889,
             "key": 0,
@@ -241,6 +253,7 @@
             "time_signature": 4
         },
         {
+            "name": "A Day In The Life - Remastered 2009",
             "danceability": 0.364,
             "energy": 0.457,
             "key": 4,
