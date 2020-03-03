@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using Musicalytics.Models;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 
 namespace Musicalytics
 {
@@ -11,6 +10,15 @@ namespace Musicalytics
     {
         public SongRepository()
         {
+        }
+
+        public void LoadJson()
+        {
+            using (StreamReader r = new StreamReader("SgtPepperTracksJSON.json"))
+            {
+                string json = r.ReadToEnd();
+                List<Song> audioItems = JsonConvert.DeserializeObject<List<Song>>(json);
+            }
         }
 
         public double GetAudioAngry(Song song)
@@ -32,7 +40,5 @@ namespace Musicalytics
         {
             return Math.Sqrt(song.valence * (1 - song.energy));
         }
-
-        
     }
 }
