@@ -56,6 +56,7 @@ namespace Musicalytics
         {
             var songE = new AudioEmotion();
             songE.songName = song.name;
+            songE.artistName = song.artist;
 
             var arr = GetEmotionValues(song);
             songE.emotionValue = arr.Max();
