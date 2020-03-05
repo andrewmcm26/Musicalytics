@@ -1,20 +1,23 @@
-﻿@model IEnumerable<AudioEmotion>
+﻿@model List<AudioEmotion>
 
 <h2>Joyful Songs</h2>
 
 <table class="table">
     <tr>
+        <th>Rank</th>
         <th>Name</th>
         <th>Artist</th>
         <th>Rating</th>
     </tr>
 
-    @foreach (var song in Model)
+    @for(int i = 0; i < Model.Count(); i++)
     {
+        var rank = i + 1;
         <tr>
-            <td>@song.songName</td>
-            <td>@song.artistName</td>
-            <td>@song.emotionValue</td>
+            <td>@rank</td>
+            <td>@Model[i].songName</td>
+            <td>@Model[i].artistName</td>
+            <td>@Model[i].emotionValue</td>
         </tr>
 
     }
