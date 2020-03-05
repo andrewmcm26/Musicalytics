@@ -1,0 +1,19 @@
+﻿@model IEnumerable<AudioEmotion>
+
+<h2>Angry Songs</h2>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Rating</th>
+    </tr>
+
+    @foreach (var song in Model)
+    {
+        <tr>
+            <td>@song.songName</td>
+            <td>@song.emotionValue</td>
+        </tr>
+
+    }
+</table>
