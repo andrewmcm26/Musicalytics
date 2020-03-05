@@ -7,7 +7,6 @@ namespace Musicalytics.Models
 {
     public class Song
     {
-
         public string name { get; set; }
         public double danceability { get; set; }
         public double energy { get; set; }
@@ -27,6 +26,6 @@ namespace Musicalytics.Models
         public string analysis_url { get; set; }
         public int duration_ms { get; set; }
         public int time_signature { get; set; }
-
+        public string artist { get; set; }
     }
 }
