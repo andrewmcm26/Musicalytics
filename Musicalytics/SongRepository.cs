@@ -15,7 +15,7 @@ namespace Musicalytics
 
         public List<Song> LoadJson()
         {
-            using (StreamReader r = new StreamReader("SgtPepperTracksJSON.json"))
+            using (StreamReader r = new StreamReader("TracksJSON.json"))
             {
                 string json = r.ReadToEnd();
                 List<Song> audioItems = JsonConvert.DeserializeObject<List<Song>>(json);
@@ -106,17 +106,17 @@ namespace Musicalytics
                 if (songAudioEmotion.emotionName == "Sad")
                 {
                     sadSongs.Add(songAudioEmotion);
-                }
+                }   
 
                 if (songAudioEmotion.emotionName == "Peaceful")
                 {
                     peacefulSongs.Add(songAudioEmotion);
                 }
             }
-            angrySongs.OrderByDescending(x => x.emotionValue);
-            joyfulSongs.OrderByDescending(x => x.emotionValue);
-            sadSongs.OrderByDescending(x => x.emotionValue);
-            peacefulSongs.OrderByDescending(x => x.emotionValue);
-        }
+            angrySongs = angrySongs.OrderByDescending(x => x.emotionValue).ToList();
+            joyfulSongs = joyfulSongs.OrderByDescending(x => x.emotionValue).ToList();
+            sadSongs = sadSongs.OrderByDescending(x => x.emotionValue).ToList();
+            peacefulSongs = peacefulSongs.OrderByDescending(x => x.emotionValue).ToList();
+        }    
     }
 }
