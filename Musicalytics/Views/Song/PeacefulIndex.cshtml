@@ -1,12 +1,13 @@
 ﻿@model List<AudioEmotion>
 
-<h2>Peaceful Songs</h2>
+<h2>Mellow Songs</h2>
 
 <table class="table">
     <tr>
         <th>Rank</th>
         <th>Name</th>
         <th>Artist</th>
+        <th>Album</th>
         <th>Rating</th>
     </tr>
 
@@ -17,6 +18,7 @@
             <td>@rank</td>
             <td>@Model[i].songName</td>
             <td>@Model[i].artistName</td>
+            <td>@Model[i].albumName</td>
             <td>@Model[i].emotionValue</td>
         </tr>
 

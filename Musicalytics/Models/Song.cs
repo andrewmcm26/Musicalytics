@@ -27,5 +27,6 @@ namespace Musicalytics.Models
         public int duration_ms { get; set; }
         public int time_signature { get; set; }
         public string artist { get; set; }
+        public string album { get; set; }
     }
 }
