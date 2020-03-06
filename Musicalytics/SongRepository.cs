@@ -25,22 +25,22 @@ namespace Musicalytics
 
         public double GetAudioAngry(Song song)
         {
-            return Math.Sqrt((1 - song.valence) * song.energy);
+            return Math.Round(Math.Sqrt((1 - song.valence) * song.energy), 3);
         }
 
         public double GetAudioJoyful(Song song)
         {
-            return Math.Sqrt(song.valence * song.energy);
+            return Math.Round(Math.Sqrt(song.valence * song.energy), 3);
         }
 
         public double GetAudioSad(Song song)
         {
-            return Math.Sqrt((1 - song.valence) * (1 - song.energy));
+            return Math.Round(Math.Sqrt((1 - song.valence) * (1 - song.energy)), 3);
         }
 
         public double GetAudioPeaceful(Song song)
         {
-            return Math.Sqrt(song.valence * (1 - song.energy));
+            return Math.Round(Math.Sqrt(song.valence * (1 - song.energy)), 3);
         }
 
         public double[] GetEmotionValues (Song song)
