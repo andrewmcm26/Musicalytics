@@ -11,5 +11,6 @@ namespace Musicalytics.Models
         public string emotionName { get; set; }
         public string songName { get; set; }
         public string artistName { get; set; }
+        public string albumName { get; set; }
     }
 }

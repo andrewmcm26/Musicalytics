@@ -20,7 +20,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4fUKE8EULjQdHF4zb0M8FO",
         "duration_ms": 122893,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
         "name": "With A Little Help From My Friends - Remastered 2009",
@@ -42,7 +43,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2RnPATK99oGOZygnD2GTO6",
         "duration_ms": 164107,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
         "name": "Lucy In The Sky With Diamonds - Remastered 2009",
@@ -64,7 +66,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/25yQPHgC35WNnnOUqFhgVR",
         "duration_ms": 208467,
         "time_signature": 1,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
         "name": "Getting Better - Remastered 2009",
@@ -86,7 +89,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3LtOmWpTXLhilL5odoKysR",
         "duration_ms": 168120,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
         "name": "Fixing A Hole - Remastered 2009",
@@ -108,7 +112,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3pKKxkeB1pOUMHwWBmKc3Y",
         "duration_ms": 156827,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
         "name": "She's Leaving Home - Remastered 2009",
@@ -130,7 +135,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3PjMtNzwhDHqxoKudm6GvF",
         "duration_ms": 215160,
         "time_signature": 3,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
         "name": "Being For The Benefit Of Mr. Kite! - Remastered 2009",
@@ -152,7 +158,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6W35n1UlkvqhfMZstB4BXs",
         "duration_ms": 157533,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
         "name": "Within You Without You - Remastered 2009",
@@ -174,7 +181,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Umg8CDhO8dOSj7yBTInYb",
         "duration_ms": 304667,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
         "name": "When I'm Sixty Four - Remastered 2009",
@@ -196,7 +204,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1NrbnHlR2BFREcyWXHIHip",
         "duration_ms": 157667,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
         "name": "Lovely Rita - Remastered 2009",
@@ -218,7 +227,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6h9W5FxX4E9lUFsyq8j1AD",
         "duration_ms": 162093,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
         "name": "Good Morning Good Morning - Remastered 2009",
@@ -240,7 +250,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0xIuNHHcKI1JDuBPlSwzb1",
         "duration_ms": 161227,
         "time_signature": 3,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
         "name": "Sgt. Pepper's Lonely Hearts Club Band - Reprise / Remastered 2009",
@@ -262,7 +273,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/42ocGQCOT0xYtV3f5kJDsD",
         "duration_ms": 79067,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
         "name": "A Day In The Life - Remastered 2009",
@@ -284,7 +296,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0hKRSZhUGEhKU6aNSPBACZ",
         "duration_ms": 337413,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band"
     },
     //-----------------Pet Sounds-----------------------------
     {
@@ -307,10 +320,11 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/04kaFiaV3JZt8BkIltXK75",
         "duration_ms": 145107,
         "time_signature": 4,
-        "artist": "The Beach Boys"
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds"
     },
     {
-        "name": "You Still Believe In Me - Mono / Remastered 2012",
+        "name": "You Still Believe In Me",
         "danceability": 0.251,
         "energy": 0.310,
         "key": 11,
@@ -329,7 +343,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6VCaMX46KYohQ6NU5sVeOH",
         "duration_ms": 151573,
         "time_signature": 4,
-        "artist": "The Beach Boys"
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds"
     },
     {
         "name": "That's Not Me",
@@ -351,7 +366,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/36j8LBkNuJn7eXLZJIhltq",
         "duration_ms": 148693,
         "time_signature": 4,
-        "artist": "The Beach Boys"
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds"
     },
     {
         "name": "Don't Talk (Put Your Head On My Shoulder)",
@@ -373,7 +389,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7hpfjemmjcwlDvTd6aYCqF",
         "duration_ms": 173400,
         "time_signature": 3,
-        "artist": "The Beach Boys"
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds"
     },
     {
         "name": "I'm Waiting For The Day",
@@ -395,7 +412,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/69W5zgLIevhOvqHkOOFuRM",
         "duration_ms": 185147,
         "time_signature": 4,
-        "artist": "The Beach Boys"
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds"
     },
     {
         "name": "Let's Go Away For Awhile",
@@ -417,7 +435,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Pn1dH7WNVIl8Q06NEwCxZ",
         "duration_ms": 140467,
         "time_signature": 3,
-        "artist": "The Beach Boys"
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds"
     },
     {
         "name": "Sloop John B",
@@ -439,7 +458,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4stZrgsWWwI9GQucGa51Er",
         "duration_ms": 178654,
         "time_signature": 4,
-        "artist": "The Beach Boys"
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds"
     },
     {
         "name": "God Only Knows",
@@ -461,7 +481,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0fu7P5TBdKG2YBREKCf6Gh",
         "duration_ms": 171627,
         "time_signature": 4,
-        "artist": "The Beach Boys"
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds"
     },
     {
         "name": "I Know There's An Answer",
@@ -483,7 +504,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/60KpaDw4TOAqptJAfRQF0A",
         "duration_ms": 190320,
         "time_signature": 4,
-        "artist": "The Beach Boys"
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds"
     },
     {
         "name": "Here Today",
@@ -505,7 +527,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2OBAA88IbXnN6Ho4OmRmQB",
         "duration_ms": 175320,
         "time_signature": 4,
-        "artist": "The Beach Boys"
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds"
     },
     {
         "name": "I Just Wasn't Made For These Times",
@@ -527,7 +550,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0nOgnPKpUyd6SGKNyYDQqX",
         "duration_ms": 194213,
         "time_signature": 4,
-        "artist": "The Beach Boys"
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds"
     },
     {
         "name": "Pet Sounds",
@@ -549,7 +573,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Gu7aaQXQNGrmpXGWua4oB",
         "duration_ms": 142587,
         "time_signature": 4,
-        "artist": "The Beach Boys"
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds"
     },
     {
         "name": "Caroline, No",
@@ -571,7 +596,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2YKtRCMN3uAKLdJtRCuzzA",
         "duration_ms": 173893,
         "time_signature": 4,
-        "artist": "The Beach Boys"
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds"
     },
     //---------------------Revolver----------------------------
     {
@@ -594,7 +620,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4BRkPBUxOYffM2QXVlq7aC",
         "duration_ms": 158853,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Revolver"
     },
     {
         "name": "Eleanor Rigby - Remastered 2009",
@@ -616,7 +643,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5GjPQ0eI7AgmOnADn1EO6Q",
         "duration_ms": 126533,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Revolver"
     },
     {
         "name": "I'm Only Sleeping - Remastered 2009",
@@ -638,7 +666,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ylCrFiBu98SC0vFfaCent",
         "duration_ms": 180320,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Revolver"
     },
     {
         "name": "Love You To - Remastered 2009",
@@ -660,7 +689,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4RdJFhfLQcezwN5LsXl4qP",
         "duration_ms": 179827,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Revolver"
     },
     {
         "name": "Here, There And Everywhere - Remastered 2009",
@@ -682,7 +712,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2B4Y9u4ERAFiMo13XPJyGP",
         "duration_ms": 144880,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Revolver"
     },
     {
         "name": "Yellow Submarine - Remastered 2009",
@@ -704,7 +735,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/50xwQXPtfNZFKFeZ0XePWc",
         "duration_ms": 158880,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Revolver"
     },
     {
         "name": "She Said She Said - Remastered 2009",
@@ -726,7 +758,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3VSuWxZM6x6V3ig5nYtikL",
         "duration_ms": 156040,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Revolver"
     },
     {
         "name": "Good Day Sunshine - Remastered 2009",
@@ -748,7 +781,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7HTH1ppjkkOe7RLoBDKXYJ",
         "duration_ms": 129293,
         "time_signature": 3,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Revolver"
     },
     {
         "name": "And Your Bird Can Sing - Remastered 2009",
@@ -770,7 +804,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4KRgqwb4kvBuTz1utbYxfb",
         "duration_ms": 120493,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Revolver"
     },
     {
         "name": "For No One - Remastered 2009",
@@ -792,7 +827,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1kDkaFlmkdEZiVUogaP9OZ",
         "duration_ms": 119813,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Revolver"
     },
     {
         "name": "Doctor Robert - Remastered 2009",
@@ -814,7 +850,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ob06Ol8FMIPQgjpg7bMyk",
         "duration_ms": 134267,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Revolver"
     },
     {
         "name": "I Want To Tell You - Remastered 2009",
@@ -836,7 +873,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7orb0y6ySGdsYZywMoQtsD",
         "duration_ms": 147973,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Revolver"
     },
     {
         "name": "Got To Get You Into My Life - Remastered 2009",
@@ -858,7 +896,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3tGhRLgcCP6SIZU3tbGl7l",
         "duration_ms": 149240,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Revolver"
     },
     {
         "name": "Tomorrow Never Knows - Remastered 2009",
@@ -880,7 +919,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/00oZhqZIQfL9P5CjOP6JsO",
         "duration_ms": 179547,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Revolver"
     },
     //---------------Highway 61 Revisited--------------------
     {
@@ -903,7 +943,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3AhXZa8sUQht0UEdBJgpGc",
         "duration_ms": 369600,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Highway 61 Revisited"
     },
     {
         "name": "Tombstone Blues",
@@ -925,7 +966,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5JqsRFZYDtIK5Rgeuzd2Jv",
         "duration_ms": 356227,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Highway 61 Revisited"
     },
     {
         "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
@@ -947,7 +989,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2yaf46YMxA5y6bzmWUKgXC",
         "duration_ms": 245133,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Highway 61 Revisited"
     },
     {
         "name": "From a Buick 6",
@@ -969,7 +1012,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6txGFpco4cfgG1sA1MxLCp",
         "duration_ms": 195693,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Highway 61 Revisited"
     },
     {
         "name": "Ballad of a Thin Man",
@@ -991,7 +1035,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0f5N14nB8xi0p3o4BlVvbx",
         "duration_ms": 356707,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Highway 61 Revisited"
     },
     {
         "name": "Queen Jane Approximately",
@@ -1013,7 +1058,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0c2DAekH6ZEnHhf8dM1leK",
         "duration_ms": 327467,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Highway 61 Revisited"
     },
     {
         "name": "Highway 61 Revisited",
@@ -1035,7 +1081,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6os5B6xjuke9YfBKH3tu1e",
         "duration_ms": 205827,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Highway 61 Revisited"
     },
     {
         "name": "Just Like Tom Thumb's Blues",
@@ -1057,7 +1104,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0V1771LhL3tG36pb55EZAH",
         "duration_ms": 327560,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Highway 61 Revisited"
     },
     {
         "name": "Desolation Row",
@@ -1079,7 +1127,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4n1ZGm3TxYmoYe1YR8cMus",
         "duration_ms": 681400,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Highway 61 Revisited"
     },
     //--------------------Rubber Soul------------------------
     {
@@ -1102,7 +1151,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/06ypiqmILMdVeaiErMFA91",
         "duration_ms": 148893,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Rubber Soul"
     },
     {
         "name": "Norwegian Wood (This Bird Has Flown) - Remastered 2009",
@@ -1124,7 +1174,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1H7gMYGykdtwZOV6s1N0by",
         "duration_ms": 124693,
         "time_signature": 3,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Rubber Soul"
     },
     {
         "name": "You Won't See Me - Remastered 2009",
@@ -1146,7 +1197,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4LLBKnNCrSRrSjSTuiwjE9",
         "duration_ms": 199960,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Rubber Soul"
     },
     {
         "name": "Nowhere Man - Remastered 2009",
@@ -1168,7 +1220,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5SUlhldQJtOhUr2GzH5RI7",
         "duration_ms": 163693,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Rubber Soul"
     },
     {
         "name": "Think For Yourself - Remastered 2009",
@@ -1190,7 +1243,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/64bKVrkaXQAKx04dLHqCNz",
         "duration_ms": 138520,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Rubber Soul"
     },
     {
         "name": "The Word - Remastered 2009",
@@ -1212,7 +1266,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4GBaPHvAyj4V2jeobD9tsy",
         "duration_ms": 163107,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Rubber Soul"
     },
     {
         "name": "Michelle - Remastered 2009",
@@ -1234,7 +1289,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5By7Pzgl6TMuVJG168VWzS",
         "duration_ms": 162373,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Rubber Soul"
     },
     {
         "name": "What Goes On - Remastered 2009",
@@ -1256,7 +1312,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/19QXdPRZFHI5kNK3tN8Mh7",
         "duration_ms": 168573,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Rubber Soul"
     },
     {
         "name": "Girl - Remastered 2009",
@@ -1278,7 +1335,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6tQvjqDIK9GXWIC6mejms8",
         "duration_ms": 151720,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Rubber Soul"
     },
     {
         "name": "I'm Looking Through You - Remastered 2009",
@@ -1300,7 +1358,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5E3BVY66TEDexFutOO5GeS",
         "duration_ms": 146387,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Rubber Soul"
     },
     {
         "name": "In My Life - Remastered 2009",
@@ -1322,7 +1381,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3KfbEIOC7YIv90FIfNSZpo",
         "duration_ms": 146333,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Rubber Soul"
     },
     {
         "name": "Wait - Remastered 2009",
@@ -1344,7 +1404,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0CGbof9amBnsNlRhZ8IY2H",
         "duration_ms": 134720,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Rubber Soul"
     },
     {
         "name": "If I Needed Someone - Remastered 2009",
@@ -1366,7 +1427,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7C6hdDIz90Uf5YmdZnYbJJ",
         "duration_ms": 142267,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Rubber Soul"
     },
     {
         "name": "Run For Your Life - Remastered 2009",
@@ -1388,7 +1450,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4gUYV3ktbaOeAK5KrXMWV5",
         "duration_ms": 141093,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "Rubber Soul"
     },
     //----------------What's Going On---------------------
     {
@@ -1411,7 +1474,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4RNHbYuRaZesMODlihhsUG",
         "duration_ms": 236467,
         "time_signature": 4,
-        "artist": "Marvin Gaye"
+        "artist": "Marvin Gaye",
+        "album": "What's Going On"
     },
     {
         "name": "What's Happening Brother",
@@ -1433,7 +1497,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3y2damZGxQOtZCkHJj5RqH",
         "duration_ms": 163560,
         "time_signature": 4,
-        "artist": "Marvin Gaye"
+        "artist": "Marvin Gaye",
+        "album": "What's Going On"
     },
     {
         "name": "Flyin' High (In The Friendly Sky)",
@@ -1455,7 +1520,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2xqmsP6eqUj4fv7ojOuJOq",
         "duration_ms": 229367,
         "time_signature": 4,
-        "artist": "Marvin Gaye"
+        "artist": "Marvin Gaye",
+        "album": "What's Going On"
     },
     {
         "name": "Save The Children",
@@ -1477,7 +1543,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ZZ9k8YxyFMu3219caLjNY",
         "duration_ms": 242667,
         "time_signature": 3,
-        "artist": "Marvin Gaye"
+        "artist": "Marvin Gaye",
+        "album": "What's Going On"
     },
     {
         "name": "God Is Love",
@@ -1499,7 +1566,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5diEs6G8eiN9L4ts92DcKL",
         "duration_ms": 101733,
         "time_signature": 4,
-        "artist": "Marvin Gaye"
+        "artist": "Marvin Gaye",
+        "album": "What's Going On"
     },
     {
         "name": "Mercy Mercy Me (The Ecology)",
@@ -1521,7 +1589,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2s3CzHjvFC6ihLNBtkaiOI",
         "duration_ms": 194627,
         "time_signature": 4,
-        "artist": "Marvin Gaye"
+        "artist": "Marvin Gaye",
+        "album": "What's Going On"
     },
     {
         "name": "Right On",
@@ -1543,7 +1612,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/33c6guOC7P87a0ZrCFjDEn",
         "duration_ms": 451467,
         "time_signature": 4,
-        "artist": "Marvin Gaye"
+        "artist": "Marvin Gaye",
+        "album": "What's Going On"
     },
     {
         "name": "Wholy Holy",
@@ -1565,7 +1635,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6lTkNf1XRAwXkZXYXMnKeD",
         "duration_ms": 187573,
         "time_signature": 5,
-        "artist": "Marvin Gaye"
+        "artist": "Marvin Gaye",
+        "album": "What's Going On"
     },
     {
         "name": "Inner City Blues (Make Me Wanna Holler)",
@@ -1587,7 +1658,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5env0VE4xNW0NX6YnUxxfh",
         "duration_ms": 327960,
         "time_signature": 4,
-        "artist": "Marvin Gaye"
+        "artist": "Marvin Gaye",
+        "album": "What's Going On"
     },
     //---------------Exile on Main St------------------------
     {
@@ -1610,7 +1682,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/42o3gy9e8dzBHvQE991ad8",
         "duration_ms": 271933,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Rip This Joint",
@@ -1632,7 +1705,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0SojSZcka4j8l8Sl0W9jUZ",
         "duration_ms": 143293,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Shake Your Hips",
@@ -1654,7 +1728,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3u28KPrRmJiNC39Fm3tZVe",
         "duration_ms": 179000,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Casino Boogie",
@@ -1676,7 +1751,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3NDEunNz7GMb6SkkPYTvd2",
         "duration_ms": 214467,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Tumbling Dice",
@@ -1698,7 +1774,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4hq0S6wznq7SHDyMOFXL9i",
         "duration_ms": 226333,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Sweet Virginia",
@@ -1720,7 +1797,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1hJrWWK74fKL7eeV3CFOvF",
         "duration_ms": 266560,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Torn And Frayed",
@@ -1742,7 +1820,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5SiCTf5r1cVjQXAXB2StpS",
         "duration_ms": 257240,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Sweet Black Angel",
@@ -1764,7 +1843,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/60OdLDvZpHe4kVDYwNtYh9",
         "duration_ms": 177667,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Loving Cup",
@@ -1786,7 +1866,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/05BcisbhFsmVpTZ0kGD7gK",
         "duration_ms": 264267,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Happy",
@@ -1808,7 +1889,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0rucXTNGt4BHpAjNR5d0UF",
         "duration_ms": 184627,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Turd On The Run",
@@ -1830,7 +1912,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7wSVa5dSpjM62zrF0WsMVQ",
         "duration_ms": 157173,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Ventilator Blues",
@@ -1852,7 +1935,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/74mpiRPDd2rFeBR1Yl60I3",
         "duration_ms": 204573,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "I Just Want To See His Face",
@@ -1874,7 +1958,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/22OTrlQy1sXdtdo1VgDUZb",
         "duration_ms": 172627,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Let It Loose",
@@ -1896,7 +1981,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2u63axjx9VKmFfQNqmpi8a",
         "duration_ms": 317173,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "All Down The Line",
@@ -1918,7 +2004,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5GHKbjIY0gTCqoY5aruDDc",
         "duration_ms": 229493,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Stop Breaking Down",
@@ -1940,7 +2027,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/09eg3FGzsZQbZk8qEXhJIA",
         "duration_ms": 274773,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Shine A Light",
@@ -1962,7 +2050,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1iii3DosaivkmvUDmhZhCP",
         "duration_ms": 256827,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     {
         "name": "Soul Survivor",
@@ -1984,7 +2073,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7faybsF8gIVvWtAp9hUcI2",
         "duration_ms": 228840,
         "time_signature": 4,
-        "artist": "The Rolling Stones"
+        "artist": "The Rolling Stones",
+        "album": "Exile On Main Street"
     },
     //-------------------London Calling------------------------------------------
     {
@@ -2007,7 +2097,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5jzma6gCzYtKB1DbEwFZKH",
         "duration_ms": 200480,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "Brand New Cadillac - Remastered",
@@ -2029,7 +2120,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7FYkZkF9fog6WS818wJnhl",
         "duration_ms": 128267,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "Jimmy Jazz - Remastered",
@@ -2051,7 +2143,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/06JxwPA4WAg0LWADJtaldL",
         "duration_ms": 234333,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "Hateful - Remastered",
@@ -2073,7 +2166,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2FNsNZjUQg3bhx5dWW0pRs",
         "duration_ms": 163933,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "Rudie Can't Fail - Remastered",
@@ -2095,7 +2189,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4W9zZsQKsqikYbKM9vcN5Q",
         "duration_ms": 208867,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "Spanish Bombs - Remastered",
@@ -2117,7 +2212,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6wtmql7FJ7SSLuSw8JD8rX",
         "duration_ms": 198867,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "The Right Profile - Remastered",
@@ -2139,7 +2235,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/33GXePBlErinst4NjAvWuc",
         "duration_ms": 234600,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "Lost in the Supermarket - Remastered",
@@ -2161,7 +2258,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/72boGlgSwUK01n44O2tOCv",
         "duration_ms": 226947,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "Clampdown - Remastered",
@@ -2183,7 +2281,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/66MwdlxiFMZ8TJGLEJnS7x",
         "duration_ms": 229213,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "The Guns of Brixton - Remastered",
@@ -2205,7 +2304,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0jnFDxgNhS156vu6roUVco",
         "duration_ms": 192440,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "Wrong 'Em Boyo - Remastered",
@@ -2227,7 +2327,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1bzfgbLPF3XTyDhmvoQ6uH",
         "duration_ms": 191493,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "Death or Glory - Remastered",
@@ -2249,7 +2350,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3lUVy400HL94NB03paDTyN",
         "duration_ms": 235000,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "Koka Kola - Remastered",
@@ -2271,7 +2373,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1YvbtzUkXtgotCTo6QeqkW",
         "duration_ms": 107813,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "The Card Cheat - Remastered",
@@ -2293,7 +2396,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2zAwL5UwmqIh3JoKVkFvd8",
         "duration_ms": 229493,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "Lover's Rock - Remastered",
@@ -2315,7 +2419,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4A8jvQQ5EnKlTJIirMhgfA",
         "duration_ms": 243067,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "Four Horsemen - Remastered",
@@ -2337,7 +2442,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2X89n7LOYnkKzfIlvi8sRp",
         "duration_ms": 175773,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "I'm Not Down - Remastered",
@@ -2359,7 +2465,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1eijsmCG81EUB5YGGAz6Yv",
         "duration_ms": 186027,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "Revolution Rock - Remastered",
@@ -2381,7 +2488,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4HNkcbObzBZnIlxB49GgrC",
         "duration_ms": 333293,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     {
         "name": "Train in Vain - Remastered",
@@ -2403,7 +2511,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ITuEsxEy2qPhqMowdDAeI",
         "duration_ms": 194667,
         "time_signature": 4,
-        "artist": "The Clash"
+        "artist": "The Clash",
+        "album": "London Calling"
     },
     //----------------------Blonde on Blonde--------------------------------------
     {
@@ -2426,7 +2535,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7BkAlVpGwXXl3sYNn5OoJ7",
         "duration_ms": 274067,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde"
     },
     {
         "name": "Pledging My Time",
@@ -2448,7 +2558,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2qTvEdNY21mL9whUJot9Oc",
         "duration_ms": 227867,
         "time_signature": 3,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde"
     },
     {
         "name": "Visions of Johanna",
@@ -2470,7 +2581,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2rslQV48gNv3r9pPrQFPW1",
         "duration_ms": 451133,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde"
     },
     {
         "name": "One of Us Must Know (Sooner or Later)",
@@ -2492,7 +2604,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/40GFPBolcy0yucApV9uxq2",
         "duration_ms": 292440,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde"
     },
     {
         "name": "I Want You",
@@ -2514,7 +2627,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7tJQ4Ekp2vN3NlI3vJJW3v",
         "duration_ms": 185200,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde"
     },
     {
         "name": "Stuck Inside of Mobile with the Memphis Blues Again",
@@ -2536,7 +2650,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1NYTj6JEw3IOh4ggiBh82h",
         "duration_ms": 423667,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde"
     },
     {
         "name": "Leopard-Skin Pill-Box Hat",
@@ -2558,7 +2673,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6aeOSY6fPsvGTzyXi65pNY",
         "duration_ms": 236333,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde"
     },
     {
         "name": "Just Like a Woman",
@@ -2580,7 +2696,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/37Dl7jQMmt0gUnzTKqnjkN",
         "duration_ms": 290467,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde"
     },
     {
         "name": "Most Likely You Go Your Way (And I'll Go Mine)",
@@ -2602,7 +2719,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2SbnSPLltgmScvZVI0OcRF",
         "duration_ms": 207293,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde"
     },
     {
         "name": "Temporary Like Achilles",
@@ -2624,7 +2742,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1HgFg4pCJO1tX1uh5NMALx",
         "duration_ms": 300307,
         "time_signature": 3,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde"
     },
     {
         "name": "Absolutely Sweet Marie",
@@ -2646,7 +2765,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/08TyPDbQ14NOoOWh13WJ2Z",
         "duration_ms": 294200,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde"
     },
     {
         "name": "Fourth Time Around",
@@ -2668,7 +2788,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4i4oDSWluhViEzuYIZYtmJ",
         "duration_ms": 272600,
         "time_signature": 3,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde"
     },
     {
         "name": "Obviously Five Believers",
@@ -2690,7 +2811,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/74z9AsqO74WCnX3BlvbGAL",
         "duration_ms": 213027,
         "time_signature": 4,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde"
     },
     {
         "name": "Sad-Eyed Lady of the Lowlands",
@@ -2712,7 +2834,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4jdtLLyEL7wY0TlCdMKhxq",
         "duration_ms": 679107,
         "time_signature": 3,
-        "artist": "Bob Dylan"
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde"
     },
     //---------------------White Album-----------------------------------
     {
@@ -2735,7 +2858,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0j3p1p06deJ7f9xmJ9yG22",
         "duration_ms": 163453,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Dear Prudence - Remastered 2009",
@@ -2757,7 +2881,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5NQYyej46WQkgCbnzGD21W",
         "duration_ms": 235773,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Glass Onion - Remastered 2009",
@@ -2779,7 +2904,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2jAojvUaPoHPFSPpF0UNRo",
         "duration_ms": 137840,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Ob-La-Di, Ob-La-Da - Remastered 2009",
@@ -2801,7 +2927,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1gFNm7cXfG1vSMcxPpSxec",
         "duration_ms": 188960,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Wild Honey Pie - Remastered 2009",
@@ -2823,7 +2950,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6j67aNAPeQ31uw4qw4rpLa",
         "duration_ms": 52973,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "The Continuing Story Of Bungalow Bill - Remastered 2009",
@@ -2845,7 +2973,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Z3Rd1fMcaty8g5Pn7yhBQ",
         "duration_ms": 194160,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "While My Guitar Gently Weeps - Remastered 2009",
@@ -2867,7 +2996,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/389QX9Q1eUOEZ19vtzzI9O",
         "duration_ms": 285000,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Happiness Is A Warm Gun - Remastered 2009",
@@ -2889,7 +3019,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/71LsKf3xISiOlY1mj7FFPP",
         "duration_ms": 164547,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Martha My Dear - Remastered 2009",
@@ -2911,7 +3042,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1swmf4hFMJYRNA8Rq9PVaW",
         "duration_ms": 148573,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "I'm So Tired - Remastered 2009",
@@ -2933,7 +3065,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2X9H5BokS1u5O46YpNYNsZ",
         "duration_ms": 123493,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Blackbird - Remastered 2009",
@@ -2955,7 +3088,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5jgFfDIR6FR0gvlA56Nakr",
         "duration_ms": 138387,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Piggies - Remastered 2009",
@@ -2977,7 +3111,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ZmjfLdJXbqjAENqk7eWSE",
         "duration_ms": 124267,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Rocky Raccoon - Remastered 2009",
@@ -2999,7 +3134,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ITQbrueGLl581a25XXm9c",
         "duration_ms": 213107,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Don't Pass Me By - Remastered 2009",
@@ -3021,7 +3157,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4zq4rrfHZeZsTbo5vjJXSV",
         "duration_ms": 230453,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Why Don't We Do It In The Road? - Remastered 2009",
@@ -3043,7 +3180,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4eLIq1nQNwz2qLu8DeiWIp",
         "duration_ms": 101160,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "I Will - Remastered 2009",
@@ -3065,7 +3203,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/09x9v1o51dbqi5H0u7UGfp",
         "duration_ms": 105933,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Julia - Remastered 2009",
@@ -3087,7 +3226,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5FnpXVgDOk2sLT58qM22Of",
         "duration_ms": 176667,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Birthday - Remastered 2009",
@@ -3109,7 +3249,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ABegtCPBMMJaMpfDyATjE",
         "duration_ms": 163080,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Yer Blues - Remastered 2009",
@@ -3131,7 +3272,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2AsGApoUuN8pTM17Lq9eUd",
         "duration_ms": 240453,
         "time_signature": 3,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Mother Nature's Son - Remastered 2009",
@@ -3153,7 +3295,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6TjUg1cTUzWHbal6yQAi7c",
         "duration_ms": 168027,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Everybody's Got Something To Hide Except Me And My Monkey - Remastered 2009",
@@ -3175,7 +3318,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/64P3zpRsDHIk7YTpRtaKYL",
         "duration_ms": 144773,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Sexy Sadie - Remastered 2009",
@@ -3197,7 +3341,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2tBv9tAdqEbLNDi5smSjbg",
         "duration_ms": 195267,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Helter Skelter - Remastered 2009",
@@ -3219,7 +3364,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Bs0hUYxz7REyIHH7tRhL2",
         "duration_ms": 269787,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Long, Long, Long - Remastered 2009",
@@ -3241,7 +3387,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/40d2EcaOOCUjDzzo2YvUWn",
         "duration_ms": 186307,
         "time_signature": 3,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Revolution 1 - Remastered 2009",
@@ -3263,7 +3410,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1aOzDhi5a1RWWRy5dmYA8I",
         "duration_ms": 255707,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Honey Pie - Remastered 2009",
@@ -3285,7 +3433,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1TPcNcmuKlq0PKpYOBgP1U",
         "duration_ms": 161160,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Savoy Truffle - Remastered 2009",
@@ -3307,7 +3456,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5iyCSUM7zzficwaGo8GIoc",
         "duration_ms": 174467,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Cry Baby Cry - Remastered 2009",
@@ -3329,7 +3479,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5XmetMMUFNXClbiYnGdVmP",
         "duration_ms": 182080,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Revolution 9 - Remastered 2009",
@@ -3351,7 +3502,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5dZ8PeKKZJLIQAWNTdp8WX",
         "duration_ms": 502013,
         "time_signature": 4,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     {
         "name": "Good Night - Remastered 2009",
@@ -3373,7 +3525,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3T4Kt51PV4k8tx6YCtBgcl",
         "duration_ms": 193760,
         "time_signature": 3,
-        "artist": "The Beatles"
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)"
     },
     //-------------------Kid A--------------------------
     {
@@ -3396,7 +3549,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5AiNZnMDCWwujIENPj9PV9",
         "duration_ms": 251427,
         "time_signature": 5,
-        "artist": "Radiohead"
+        "artist": "Radiohead",
+        "album": "Kid A"
     },
     {
         "name": "Kid A",
@@ -3418,7 +3572,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4x7XJOE2ml2P3o3i77466j",
         "duration_ms": 284507,
         "time_signature": 4,
-        "artist": "Radiohead"
+        "artist": "Radiohead",
+        "album": "Kid A"
     },
     {
         "name": "The National Anthem",
@@ -3440,7 +3595,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/01UstUPbzPgq2MNp6h0tVo",
         "duration_ms": 351693,
         "time_signature": 4,
-        "artist": "Radiohead"
+        "artist": "Radiohead",
+        "album": "Kid A"
     },
     {
         "name": "How To Disappear Completely",
@@ -3462,7 +3618,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/69pwmeyvQMuHMtkCmpEWhQ",
         "duration_ms": 356333,
         "time_signature": 4,
-        "artist": "Radiohead"
+        "artist": "Radiohead",
+        "album": "Kid A"
     },
     {
         "name": "Treefingers",
@@ -3484,7 +3641,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4DPQvbgSM0IdX4O3HOACwL",
         "duration_ms": 222600,
         "time_signature": 3,
-        "artist": "Radiohead"
+        "artist": "Radiohead",
+        "album": "Kid A"
     },
     {
         "name": "Optimistic",
@@ -3506,7 +3664,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4DE6Wkt9fW7R5e9gJGWQim",
         "duration_ms": 315973,
         "time_signature": 4,
-        "artist": "Radiohead"
+        "artist": "Radiohead",
+        "album": "Kid A"
     },
     {
         "name": "In Limbo",
@@ -3528,7 +3687,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1NgvIjkEjkhcIR1pp5Qsir",
         "duration_ms": 211000,
         "time_signature": 4,
-        "artist": "Radiohead"
+        "artist": "Radiohead",
+        "album": "Kid A"
     },
     {
         "name": "Idioteque",
@@ -3550,7 +3710,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7xqeIdLJSf3bgmZ7vUvHrE",
         "duration_ms": 309093,
         "time_signature": 3,
-        "artist": "Radiohead"
+        "artist": "Radiohead",
+        "album": "Kid A"
     },
     {
         "name": "Morning Bell",
@@ -3572,7 +3733,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1HQYo8C5L0qd1p5f1anXPS",
         "duration_ms": 275800,
         "time_signature": 5,
-        "artist": "Radiohead"
+        "artist": "Radiohead",
+        "album": "Kid A"
     },
     {
         "name": "Motion Picture Soundtrack",
@@ -3594,7 +3756,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0COiZ7ncho2yi4HotbzgPv",
         "duration_ms": 200483,
         "time_signature": 4,
-        "artist": "Radiohead"
+        "artist": "Radiohead",
+        "album": "Kid A"
     },
     {
         "name": "Untitled",
@@ -3616,7 +3779,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2YsJM80gRMAhCikUkNZT3G",
         "duration_ms": 52695,
         "time_signature": 3,
-        "artist": "Radiohead"
+        "artist": "Radiohead",
+        "album": "Kid A"
     },
     //-----------------Is This It----------------------
     {
@@ -3639,7 +3803,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0jBE7Fn78EAvmIs3dCd6GO",
         "duration_ms": 151333,
         "time_signature": 4,
-        "artist": "The Strokes"
+        "artist": "The Strokes",
+        "album": "Is This It"
     },
     {
         "name": "The Modern Age",
@@ -3661,7 +3826,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1420BGhbXGkIJtbtBlfpYE",
         "duration_ms": 208067,
         "time_signature": 4,
-        "artist": "The Strokes"
+        "artist": "The Strokes",
+        "album": "Is This It"
     },
     {
         "name": "Soma",
@@ -3683,7 +3849,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6gU7ohksNd6LsEJMWfDRhp",
         "duration_ms": 153840,
         "time_signature": 4,
-        "artist": "The Strokes"
+        "artist": "The Strokes",
+        "album": "Is This It"
     },
     {
         "name": "Barely Legal",
@@ -3705,7 +3872,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/21Ay8Y9Pr91nSauPGtK6MW",
         "duration_ms": 234693,
         "time_signature": 4,
-        "artist": "The Strokes"
+        "artist": "The Strokes",
+        "album": "Is This It"
     },
     {
         "name": "Someday",
@@ -3727,7 +3895,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7hm4HTk9encxT0LYC0J6oI",
         "duration_ms": 183440,
         "time_signature": 4,
-        "artist": "The Strokes"
+        "artist": "The Strokes",
+        "album": "Is This It"
     },
     {
         "name": "Alone, Together",
@@ -3749,7 +3918,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4UmJMAY5TqXPAnsDW1Mci7",
         "duration_ms": 188640,
         "time_signature": 4,
-        "artist": "The Strokes"
+        "artist": "The Strokes",
+        "album": "Is This It"
     },
     {
         "name": "Last Nite",
@@ -3771,7 +3941,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3SUusuA9jH1v6PVwtYMbdv",
         "duration_ms": 193373,
         "time_signature": 4,
-        "artist": "The Strokes"
+        "artist": "The Strokes",
+        "album": "Is This It"
     },
     {
         "name": "Hard To Explain",
@@ -3793,7 +3964,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0OM9ri37LIbPc9hffwsyb1",
         "duration_ms": 224333,
         "time_signature": 4,
-        "artist": "The Strokes"
+        "artist": "The Strokes",
+        "album": "Is This It"
     },
     {
         "name": "When It Started",
@@ -3815,7 +3987,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3iiObSfkcBsETljmSB4Hcs",
         "duration_ms": 175200,
         "time_signature": 4,
-        "artist": "The Strokes"
+        "artist": "The Strokes",
+        "album": "Is This It"
     },
     {
         "name": "Trying Your Luck",
@@ -3837,7 +4010,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5KupfEBaVJwL7D2ZN0n1Q1",
         "duration_ms": 202760,
         "time_signature": 4,
-        "artist": "The Strokes"
+        "artist": "The Strokes",
+        "album": "Is This It"
     },
     {
         "name": "Take It Or Leave It",
@@ -3859,7 +4033,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0seTertVGvHrEJu7hlIWRq",
         "duration_ms": 196067,
         "time_signature": 4,
-        "artist": "The Strokes"
+        "artist": "The Strokes",
+        "album": "Is This It"
     },
     //--------------Yankee Hotel Foxtrot----------------------------------------
     {
@@ -3882,7 +4057,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3HWxpLKnTlz6jE3Vi5dTF2",
         "duration_ms": 418200,
         "time_signature": 4,
-        "artist": "Wilco"
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot"
     },
     {
         "name": "Kamera",
@@ -3904,7 +4080,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7xSUGewoItgxStLNXnoWkl",
         "duration_ms": 210093,
         "time_signature": 4,
-        "artist": "Wilco"
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot"
     },
     {
         "name": "Radio Cure",
@@ -3926,7 +4103,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5y4MDqm1PYa2T1vT6vboJI",
         "duration_ms": 308533,
         "time_signature": 4,
-        "artist": "Wilco"
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot"
     },
     {
         "name": "War on War",
@@ -3948,7 +4126,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ZQ0AYmoSQqmPYtI9JP9F9",
         "duration_ms": 227667,
         "time_signature": 4,
-        "artist": "Wilco"
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot"
     },
     {
         "name": "Jesus, Etc.",
@@ -3970,7 +4149,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4wd09wCccmxUB7XVJp0RNn",
         "duration_ms": 231000,
         "time_signature": 4,
-        "artist": "Wilco"
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot"
     },
     {
         "name": "Ashes of American Flags",
@@ -3992,7 +4172,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1BI3TOb107VToPovrraoU2",
         "duration_ms": 284027,
         "time_signature": 4,
-        "artist": "Wilco"
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot"
     },
     {
         "name": "Heavy Metal Drummer",
@@ -4014,7 +4195,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4xmeLj3uVcoAwgDtwM4MbG",
         "duration_ms": 188840,
         "time_signature": 4,
-        "artist": "Wilco"
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot"
     },
     {
         "name": "I'm the Man Who Loves You",
@@ -4036,7 +4218,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/70gsdxSzE5lCKCCYj2F1Yr",
         "duration_ms": 235760,
         "time_signature": 4,
-        "artist": "Wilco"
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot"
     },
     {
         "name": "Pot Kettle Black",
@@ -4058,7 +4241,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7fRAo80qMQjm6sr21gQTXp",
         "duration_ms": 240707,
         "time_signature": 4,
-        "artist": "Wilco"
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot"
     },
     {
         "name": "Poor Places",
@@ -4080,7 +4264,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4cGVaSWrKvMYuVTz5NRYYJ",
         "duration_ms": 315467,
         "time_signature": 4,
-        "artist": "Wilco"
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot"
     },
     {
         "name": "Reservations",
@@ -4102,7 +4287,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1TRsfoxOCzeSJXHtY8KiQC",
         "duration_ms": 443093,
         "time_signature": 3,
-        "artist": "Wilco"
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot"
     },
 //-------------The Blueprint-------------------------------------
     {
@@ -4125,7 +4311,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5HdZE8e4PPwEvDZuhJlfFg",
         "duration_ms": 228627,
         "time_signature": 4,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     },
     {
         "name": "Takeover",
@@ -4147,7 +4334,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/135lkyQRwFlWfmHjJTxtld",
         "duration_ms": 313107,
         "time_signature": 4,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     },
     {
         "name": "Izzo (H.O.V.A.)",
@@ -4169,7 +4357,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4h5KBcltGefua73AUPYps7",
         "duration_ms": 240627,
         "time_signature": 4,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     },
     {
         "name": "Girls, Girls, Girls",
@@ -4191,7 +4380,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0vzb8Ii9B2fP9c0POFGPOZ",
         "duration_ms": 275373,
         "time_signature": 4,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     },
     {
         "name": "Jigga That Nigga",
@@ -4213,7 +4403,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/666HYUUijpHmbVjOEr6VTK",
         "duration_ms": 204027,
         "time_signature": 4,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     },
     {
         "name": "U Don't Know",
@@ -4235,7 +4426,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4O7oKy8YADaBrbehcPl0kE",
         "duration_ms": 199440,
         "time_signature": 4,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     },
     {
         "name": "Hola' Hovito",
@@ -4257,7 +4449,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3YNm3yDaCqAxLQLR8CHpof",
         "duration_ms": 273160,
         "time_signature": 4,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     },
     {
         "name": "Heart Of The City (Ain't No Love)",
@@ -4279,7 +4472,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6gpZSI0xEMTzleBc5ykOVA",
         "duration_ms": 223240,
         "time_signature": 4,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     },
     {
         "name": "Never Change",
@@ -4301,7 +4495,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ygITaWckccPnbVE2nadrz",
         "duration_ms": 237067,
         "time_signature": 4,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     },
     {
         "name": "Song Cry",
@@ -4323,7 +4518,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4xHQTdD5oItTLv0rTjM5XN",
         "duration_ms": 302360,
         "time_signature": 4,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     },
     {
         "name": "All I Need",
@@ -4345,7 +4541,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3YIePf4zgX3G8L33mgRnKr",
         "duration_ms": 265827,
         "time_signature": 4,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     },
     {
         "name": "Renegade",
@@ -4367,7 +4564,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0eK5y1c7WDyWwx6k9SFjbT",
         "duration_ms": 337760,
         "time_signature": 1,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     },
     {
         "name": "Blueprint (Momma Loves Me)",
@@ -4389,7 +4587,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2cFnNLgQ0SYuh4vAftnGBH",
         "duration_ms": 220733,
         "time_signature": 4,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     },
     {
         "name": "Lyrical Exercise",
@@ -4411,7 +4610,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2AO4J6Moo7fULnHnzVxqjG",
         "duration_ms": 226067,
         "time_signature": 4,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     },
     {
         "name": "Girls, Girls, Girls (Part 2)",
@@ -4433,7 +4633,8 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Mtt0rvg195HXHEJU3LeMr",
         "duration_ms": 254293,
         "time_signature": 4,
-        "artist": "JAY-Z"
+        "artist": "JAY-Z",
+        "album": "The Blueprint"
     }
 ]
   
