@@ -4656,7 +4656,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/1WopKLOG4Kud0H1r3xrCfT",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/1WopKLOG4Kud0H1r3xrCfT",
         "duration_ms": 27867,
-        "time_signature": 5
+        "time_signature": 5,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "Kill You",
@@ -4677,7 +4679,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/5eGEc27nnhtmcOh6RC890a",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5eGEc27nnhtmcOh6RC890a",
         "duration_ms": 264400,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "Stan",
@@ -4698,7 +4702,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/3UmaczJpikHgJFyBTAJVoz",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3UmaczJpikHgJFyBTAJVoz",
         "duration_ms": 404107,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "Paul - Skit",
@@ -4719,7 +4725,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/2vDNkLviUQSxSxulGBFSqJ",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/2vDNkLviUQSxSxulGBFSqJ",
         "duration_ms": 10600,
-        "time_signature": 0
+        "time_signature": 0,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "Who Knew",
@@ -4740,7 +4748,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/15joiMls8SpP1VtGivYh6i",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/15joiMls8SpP1VtGivYh6i",
         "duration_ms": 227760,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "Steve Berman",
@@ -4761,7 +4771,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/0DaZU7iKgXMelfXCkCOgBK",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0DaZU7iKgXMelfXCkCOgBK",
         "duration_ms": 53573,
-        "time_signature": 1
+        "time_signature": 1,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "The Way I Am",
@@ -4782,7 +4794,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/23wfXwnsPZYe5A1xXRHb3J",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/23wfXwnsPZYe5A1xXRHb3J",
         "duration_ms": 290427,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "The Real Slim Shady",
@@ -4803,7 +4817,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/3yfqSUWxFvZELEM4PmlwIR",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3yfqSUWxFvZELEM4PmlwIR",
         "duration_ms": 284200,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "Remember Me?",
@@ -4824,7 +4840,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/7996f9NZeypc4jqfc6hJUa",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7996f9NZeypc4jqfc6hJUa",
         "duration_ms": 218840,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "I'm Back",
@@ -4845,7 +4863,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/3xVtc7PB4V3AqAfq4Iahli",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3xVtc7PB4V3AqAfq4Iahli",
         "duration_ms": 309760,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "Marshall Mathers",
@@ -4866,7 +4886,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/3X4Oz9LjhhtgyOhVNlfoYa",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/3X4Oz9LjhhtgyOhVNlfoYa",
         "duration_ms": 321267,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "Ken Kaniff - Skit",
@@ -4887,7 +4909,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/4HsaoezrUA96qMzDK3ZWnq",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4HsaoezrUA96qMzDK3ZWnq",
         "duration_ms": 61800,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "Drug Ballad",
@@ -4908,7 +4932,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/7tEoJKbYdIHBfn7tTIyjHW",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7tEoJKbYdIHBfn7tTIyjHW",
         "duration_ms": 300267,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "Amityville",
@@ -4929,7 +4955,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/0erTM8A9ro5kzcNc962jHd",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/0erTM8A9ro5kzcNc962jHd",
         "duration_ms": 254773,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "Bitch Please II",
@@ -4950,7 +4978,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/7lgvU7WnwcNZ8dbGUz8yhP",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/7lgvU7WnwcNZ8dbGUz8yhP",
         "duration_ms": 288200,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "Kim",
@@ -4971,7 +5001,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/20oenBXlmwIfK0F3fQIjhM",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/20oenBXlmwIfK0F3fQIjhM",
         "duration_ms": 377893,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "Under The Influence",
@@ -4992,7 +5024,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/5H3B1WtZYGmyOYOXgQltKU",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/5H3B1WtZYGmyOYOXgQltKU",
         "duration_ms": 321667,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     },
     {
         "name": "Criminal",
@@ -5013,7 +5047,9 @@
         "track_href": "https://api.spotify.com/v1/tracks/18ohWhzbMCynq5QJ68ifkW",
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/18ohWhzbMCynq5QJ68ifkW",
         "duration_ms": 319600,
-        "time_signature": 4
+        "time_signature": 4,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP"
     }
 ]
   
