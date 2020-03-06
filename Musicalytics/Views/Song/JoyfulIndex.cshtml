@@ -2,19 +2,40 @@
 
 <h2>Joyful Songs</h2>
 
+    <script>function play() {
+        var audio = document.getElementById("audio");
+        audio.play();
+        }
+        function pause() {
+            var audio = document.getElementById("audio");
+            audio.pause();
+        }
+    </script>
+
 <table class="table">
     <tr>
         <th>Rank</th>
+        <th></th>
+        <th></th>
         <th>Name</th>
         <th>Artist</th>
         <th>Rating</th>
     </tr>
 
-    @for(int i = 0; i < Model.Count(); i++)
+
+    @for (int i = 0; i < Model.Count(); i++)
     {
         var rank = i + 1;
         <tr>
             <td>@rank</td>
+            <td>
+                <input type="button" value=&#9658 onclick="play()">
+                <audio id="audio" src=@Model[i].audio></audio>
+            </td>
+            <td>
+                <input type="button" value=&#10074;&#10074; onclick="pause()">
+                <audio id="audio" src=@Model[i].audio></audio>
+            </td>
             <td>@Model[i].songName</td>
             <td>@Model[i].artistName</td>
             <td>@Model[i].emotionValue</td>
