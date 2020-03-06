@@ -15,14 +15,7 @@ namespace Musicalytics.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public void LoadJson()
-        {
-            using (StreamReader r = new StreamReader("SgtPepperTracksJSON.json"))
-            {
-                string json = r.ReadToEnd();
-                List<Song> audioItems = JsonConvert.DeserializeObject<List<Song>>(json);
-            }
-        }
+        
 
 
 
