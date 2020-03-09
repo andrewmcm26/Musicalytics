@@ -58,6 +58,7 @@ namespace Musicalytics
             songE.songName = song.name;
             songE.artistName = song.artist;
             songE.albumName = song.album;
+            songE.preview = song.previewUrl;
 
             var arr = GetEmotionValues(song);
             songE.emotionValue = arr.Max();
