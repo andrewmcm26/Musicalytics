@@ -2,12 +2,14 @@
 
 <h2>Angry Songs</h2>
 
-<script>function play() {
-        var audio = document.getElementById("audio");
+<script>var i;
+
+    function play(i) {
+        var audio = document.getElementById(i);
         audio.play();
     }
-    function pause() {
-        var audio = document.getElementById("audio");
+    function pause(i) {
+        var audio = document.getElementById(i);
         audio.pause();
     }</script>
 
@@ -29,12 +31,12 @@
         <tr>
             <td>@rank</td>
             <td>
-                <input type="button" value=&#9658 onclick="play()">
-                <audio id="audio" src=@Model[i].preview></audio>
+                <input type="button" value=&#9658 onclick="play(@i)">
+                <audio id=@i src=@Model[i].preview></audio>
             </td>
             <td>
-                <input type="button" value=&#10074;&#10074; onclick="pause()">
-                <audio id="audio" src=@Model[i].preview></audio>
+                <input type="button" value=&#10074;&#10074; onclick="pause(@i)">
+                <audio id=@i src=@Model[i].preview></audio>
             </td>
             <td>@Model[i].songName</td>
             <td>@Model[i].artistName</td>
