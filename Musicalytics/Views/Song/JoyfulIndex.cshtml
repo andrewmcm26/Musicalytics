@@ -5,6 +5,18 @@
 <h2>Joyful Songs</h2>
 
 
+<script>
+    var i;
+
+    function play(i) {
+        var audio = document.getElementById(i);
+        audio.play();
+    }
+    function pause(i) {
+        var audio = document.getElementById(i);
+        audio.pause();
+    }</script>
+
 <table class="table">
     <tr>
         <th>Rank</th>
@@ -23,11 +35,11 @@
         <tr>
             <td>@rank</td>
             <td>
-                <input type="button" value=&#9658 onclick="play()">
+                <input type="button" value=&#9658 onclick="play(@i)">
                 <audio id=@i src=@Model[i].preview></audio>
             </td>
             <td>
-                <input type="button" value=&#10074;&#10074; onclick="pause()">
+                <input type="button" value=&#10074;&#10074; onclick="pause(@i)">
                 <audio id=@i src=@Model[i].preview></audio>
             </td>
             <td>@Model[i].songName</td>
@@ -35,18 +47,8 @@
             <td>@Model[i].albumName</td>
             <td>@Model[i].emotionValue</td>
         </tr>
-<script>
-    var x = document.getElementById(@i)
-
-    function playAudio() {
-        x.play();
-        }
-        function pauseAudio() {
-            x.pause();
-        }
-    </script>
 
     }
-
 </table>
+
 
