@@ -27,8 +27,14 @@
 
     @for (int i = 0; i < Model.Count(); i++)
     {
+        var id = $"angry{i}";
         var rank = i + 1;
-        <tr>
+<style>
+            #@id {
+                background-color: rgb(255, @(100/Model[i].emotionValue), @(100/Model[i].emotionValue))
+            }
+</style>
+        <tr id="@id">
             <td>@rank</td>
             <td>
                 <input type="button" value=&#9658 onclick="play(@i)">

@@ -13,6 +13,7 @@ namespace Musicalytics
         {
         }
 
+        //LOAD SONGS
         public List<Song> LoadJson()
         {
             using (StreamReader r = new StreamReader("TracksJSON.json"))
@@ -23,6 +24,7 @@ namespace Musicalytics
             }
         }
 
+        //ANALYZE SONGS
         public double GetAudioAngry(Song song)
         {
             return Math.Round(Math.Sqrt((1 - song.valence) * song.energy), 3);
@@ -43,6 +45,7 @@ namespace Musicalytics
             return Math.Round(Math.Sqrt(song.valence * (1 - song.energy)), 3);
         }
 
+        //GET EACH OF THE FOUR EMOTIONAL VALUES
         public double[] GetEmotionValues (Song song)
         {
             var angry = GetAudioAngry(song);
@@ -52,6 +55,7 @@ namespace Musicalytics
             return new double[4] { angry, joyful, sad, peaceful };
         }
 
+        //CREATE AND LABEL AUDIO EMOTION OBJECTS
         public AudioEmotion GetEmotion(Song song)
         {
             var songE = new AudioEmotion();
@@ -83,11 +87,13 @@ namespace Musicalytics
             return songE;
         }
 
+
         public List<AudioEmotion> angrySongs = new List<AudioEmotion>();
         public List<AudioEmotion> joyfulSongs = new List<AudioEmotion>();
         public List<AudioEmotion> sadSongs = new List<AudioEmotion>();
         public List<AudioEmotion> peacefulSongs = new List<AudioEmotion>();
 
+        //CATEGORIZE AND ORDER AUDIO EMOTION OBJECTS INTO PROPER LISTS
         public void SortSong()
         {
             var audioItems = LoadJson();
