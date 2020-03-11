@@ -62,6 +62,7 @@ namespace Musicalytics
             songE.songName = song.name;
             songE.artistName = song.artist;
             songE.albumName = song.album;
+            songE.albumYear = song.year;
             songE.preview = song.previewUrl;
 
             var arr = GetEmotionValues(song);
