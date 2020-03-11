@@ -13,5 +13,6 @@ namespace Musicalytics.Models
         public string artistName { get; set; }
         public string albumName { get; set; }
         public string preview { get; set; }
+        public int albumYear { get; set; }
     }
 }
