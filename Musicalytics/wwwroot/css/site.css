@@ -5,8 +5,17 @@ a.navbar-brand {
   white-space: normal;
   text-align: center;
   word-break: break-all;
-
 }
+
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+
+    .navbar.center .navbar-inner .nav {
+        float: none;
+        display: inline-block;
+        vertical-align: middle;
+    }
 
 /* Provide sufficient contrast against white background */
 a {
