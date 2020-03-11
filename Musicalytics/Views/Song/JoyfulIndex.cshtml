@@ -36,13 +36,13 @@
         var rank = i + 1;
         <style>
             #@id {
-                background-color: rgb(255, 255, @(127.5/Model[i].emotionValue))
+                background-color: rgb(255, 255, @(140/Model[i].emotionValue - 40))
             }
         </style>
 <tr id="@id">
     <td> @rank</td>
     <td>
-        <input type="button" value=&#9658 onclick="play(@i)">
+        <input  type="button" value=&#9658 onclick="play(@i)">
         <audio id=@i src=@Model[i].preview></audio>
     </td>
     <td>
