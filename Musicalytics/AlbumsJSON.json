@@ -201,6 +201,13 @@
         "mbid": "",
         "url": "https://www.last.fm/music/Sturgill+Simpson/A+Sailor%27s+Guide+to+Earth",
         "image": "https://lastfm.freetls.fastly.net/i/u/174s/0877a534ac6254cd36167ba1e18af9e7.png"
-    }
+    },
+    {
+        "name": "Blue",
+        "artist": "Joni Mitchell",
+        "mbid": "243fb7b0-e7f3-42e8-bdfc-a66fd9e23d0e",
+        "url": "https://www.last.fm/music/Joni+Mitchell/Blue",
+        "image": "https://lastfm.freetls.fastly.net/i/u/174s/0db6a11adf104115c1bb119c1c93a0b5.png"
+    }      
 
 ]
