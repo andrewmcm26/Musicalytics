@@ -36,7 +36,9 @@ namespace Musicalytics.Controllers
 
         public IActionResult About()
         {
-            return View();
+            var repo = new AlbumRepository();
+            var albums = repo.LoadAlbumJSON();
+            return View(albums);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

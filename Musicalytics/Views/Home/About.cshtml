@@ -1,4 +1,4 @@
-﻿
+﻿@model List<Album>
 @{
     ViewData["Title"] = "About";
 }
@@ -32,4 +32,26 @@
     
 </p>
 
+<<<<<<< HEAD
+=======
+<h2>Albums</h2>
+
+<table class="table">
+    <tr>
+        <th> Album </th>
+        <th>Artist</th>
+        <th>Album Cover</th>
+    </tr>
+
+
+    @for(int i = 0; i < Model.Count(); i++)
+    {
+        <tr>
+            <td> <a target="_blank" href="@Model[i].url"> @Model[i].name </a></td>
+            <td>@Model[i].artist</td>
+            <td><img src="@Model[i].image" /></td>
+        </tr>
+    }
+</table>
+>>>>>>> b1684bd1fd772827ca51b84be36a488ac419a7ae
 
