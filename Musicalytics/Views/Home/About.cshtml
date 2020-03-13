@@ -30,9 +30,27 @@
     </ul>
     To assign a quantitative emotional value to each song we analyzed, we wrote four different geometric mean formulas (one for each emotion).
     They are listed below:
-    
+        <p style="text-align:center">
+            <span style="white-space: nowrap; font-size:larger">
+                <b>angry</b> = &radic;<span style="text-decoration:overline;">&nbsp;<i>(1 - v) * e</i>&nbsp;</span>
+            </span>
+            <span style="white-space: nowrap; font-size:larger">
+                <b>joyful</b> = &radic;<span style="text-decoration:overline;">&nbsp;<i>v * e</i>&nbsp;</span>
+            </span>
+        </p>
+        <p style="text-align:center">
+            <span style="white-space: nowrap; font-size:larger">
+                <b>sad</b> = &radic;<span style="text-decoration:overline;">&nbsp;<i>(1 - v) * (1 - e)</i>&nbsp;</span>
+            </span>
+            <span style="white-space: nowrap; font-size:larger">
+                <b>mellow</b> = &radic;<span style="text-decoration:overline;">&nbsp;<i>v * (1 - e)</i>&nbsp;</span>
+            </span>
+        </p>
+    Then the highest-scoring emotion for each song was taken. The closer a song's rating is to 1.0, the more strongly it demonstrates the 
+    emotion, while the closer a song is to 0.5, the more neutral-sounding it is considered to be. We analyzed songs from the albums in the
+    table below. This collection of albums displays a wide variety of genres, and many can be found on various "Best Of" lists. They are listed 
+    alphabetically by artist.
 </p>
-
 
 <h2>Albums</h2>
 
@@ -44,7 +62,7 @@
     </tr>
 
 
-    @for(int i = 0; i < Model.Count(); i++)
+    @for (int i = 0; i < Model.Count(); i++)
     {
         <tr>
             <td> <a target="_blank" href="@Model[i].url"> @Model[i].name </a></td>
