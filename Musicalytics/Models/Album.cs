@@ -13,7 +13,7 @@ namespace Musicalytics.Models
         public string name { get; set; }
         public string artist { get; set; }
         public string url { get; set; }
-        public string image { get; set; }
+        public string image  { get; set; }
 
     }
 }
