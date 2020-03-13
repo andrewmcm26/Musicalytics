@@ -176,6 +176,22 @@
         "artistUrl": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
     },
     {
+        "name": "Kind of Blue",
+        "artist": "Miles Davis",
+        "mbid": "",
+        "url": "https://www.last.fm/music/Miles+Davis/Kind+of+Blue",
+        "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d0d1c9dd0dd46caac0265043cc41357.png",
+        "artistUrl": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+    },
+    {
+        "name": "Ten",
+        "artist": "Pearl Jam",
+        "mbid": "",
+        "url": "https://www.last.fm/music/Pearl+Jam/Ten",
+        "image": "https://lastfm.freetls.fastly.net/i/u/174s/4dfa0959e9534f8dcfd24d5dc5110589.png",
+        "artistUrl": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+    },
+    {
         "name": "Kid A",
         "artist": "Radiohead",
         "mbid": "b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5",
