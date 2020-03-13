@@ -6,13 +6,14 @@
 <h1>@ViewData["Title"]</h1>
 
 <p>
-    The goal of this project is to quantify the emotion of a song as accurately as possible, based purely on sonic analysis. We decided to
-    use two of Spotify's audio features to measure these emotional values: valence and energy. Spotify defines <b>valence</b> as "a measure from
-    0.0 to 1.0 describing the musical positiveness conveyed by a track." Songs with valence values closer to 1 sound more positive (e.g. happy,
-    cheerful, euphoric), while those closer to 0 sound more negative (e.g. sad, depressed, angry). <b>Energy</b>, ranging from 0.0 to 1.0,
-    is defined by Spotify as "a perceptual measure of intensity and activity." Tracks with energy values closer to 1 typically "feel fast,
-    loud, and noisy." Several factors contribute to Spotify's measurement of energy, including "dynamic range, perceived loudness, timbre,
-    onset rate, and general entropy." Considering these two different audio features, we decided to create four different emotional categories:
+    The goal of this project is to quantify the emotion of a song as accurately as possible, based purely on the sonic properties of the song.
+    We decided to use two of Spotify's audio features to measure these emotional values: valence and energy. Spotify defines <b>valence</b> as
+    "a measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track." Songs with valence values closer to 1 sound more
+    positive (e.g. happy, cheerful, euphoric), while those closer to 0 sound more negative (e.g. sad, depressed, angry). <b>Energy</b>, ranging
+    from 0.0 to 1.0, is defined by Spotify as "a perceptual measure of intensity and activity." Tracks with energy values closer to 1 typically
+    "feel fast, loud, and noisy." Several factors contribute to Spotify's measurement of energy, including "dynamic range, perceived loudness,
+    timbre, onset rate, and general entropy." Considering these two different audio features, we decided to create four different emotional
+    categories:
     <ul>
         <li>
             <b>Joyful</b>: Displaying high valence and high energy.
@@ -29,9 +30,20 @@
     </ul>
     To assign a quantitative emotional value to each song we analyzed, we wrote four different geometric mean formulas (one for each emotion).
     They are listed below:
-    
-</p>
+    <p style="text-align:center">
+        <b>angry</b> = &radic;<span style="border-top: 1px solid #000000; font-size: 12px;"><i>(1 - v) * e</i></span>
+        <b>joyful</b> = &radic;<span style="border-top: 1px solid #000000; font-size: 12px;"><i>v * e</i></span>
+    </p>
+    <p style="text-align:center">
+        <b>sad</b> = &radic;<span style="border-top: 1px solid #000000; font-size: 12px;"><i>(1 - v) * (1 - e)</i></span>
+        <b>mellow</b> = &radic;<span style="border-top: 1px solid #000000; font-size: 12px;"><i>v * (1 - e)</i></span>
+    </p>
 
+    Then the highest-scoring emotion for each song was taken. The closer a song's rating is to 1.0, the more strongly it demonstrates the
+    emotion, while the closer a song is to 0.5, the more neutral-sounding it is considered to be. We analyzed songs from the albums in the
+    table below. This collection of albums spans a wide range of genres, and many can be found on various "Best Of" lists. They are listed
+    alphabetically by artist.
+</p>
 
 <h2>Albums</h2>
 
@@ -43,11 +55,11 @@
     </tr>
 
 
-    @for(int i = 0; i < Model.Count(); i++)
+    @for (int i = 0; i < Model.Count(); i++)
     {
         <tr>
             <td> <a target="_blank" href="@Model[i].url"> @Model[i].name </a></td>
-            <td>@Model[i].artist</td>
+            <td> <a target="_blank" href="@Model[i].artistUrl"> @Model[i].artist </a></td>
             <td><img src="@Model[i].image" /></td>
         </tr>
     }
